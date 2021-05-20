@@ -223,7 +223,7 @@ export class EnterPassword extends Component {
                       href="/MobileOtpSend"
                       onClick={this.ResetPassPassword}
                     >
-                      Forget password?
+                      {/* Forget password? */}
                     </Button>
                   </div>
                   <div className="next_Button">

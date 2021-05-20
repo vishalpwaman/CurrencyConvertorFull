@@ -108,9 +108,9 @@ export class dashboard extends Component {
                       <MenuItem value="AUD">AUD</MenuItem>
                       <MenuItem value="JPY">JPY</MenuItem>
                       <MenuItem value="HUF">HUF</MenuItem>
-                      <MenuItem value="AUD">INR</MenuItem>
-                      <MenuItem value="JPY">TRY</MenuItem>
-                      <MenuItem value="HUF">QAR</MenuItem>
+                      <MenuItem value="INR">INR</MenuItem>
+                      <MenuItem value="TRY">TRY</MenuItem>
+                      <MenuItem value="QAR">QAR</MenuItem>
                     </Select>
                   </FormControl>
                 </div>
@@ -146,9 +146,9 @@ export class dashboard extends Component {
                       <MenuItem value="AUD">AUD</MenuItem>
                       <MenuItem value="JPY">JPY</MenuItem>
                       <MenuItem value="HUF">HUF</MenuItem>
-                      <MenuItem value="AUD">INR</MenuItem>
-                      <MenuItem value="JPY">TRY</MenuItem>
-                      <MenuItem value="HUF">QAR</MenuItem>
+                      <MenuItem value="INR">INR</MenuItem>
+                      <MenuItem value="TRY">TRY</MenuItem>
+                      <MenuItem value="QAR">QAR</MenuItem>
                     </Select>
                   </FormControl>
                 </div>
